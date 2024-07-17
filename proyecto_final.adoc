@@ -1,0 +1,28 @@
+= Proyecto Final - Bootcamp de Ciencias Computacionales
+---
+En este documento presentamos los detalles del proyecto final, con las
+opciones que tienes para recibir tu certificado.
+
+== Opción 1: Presentación sobre un tema de tu elección
+
+En esta opción, deberás escribir un ensayo invetigativo sobre alguno de los
+temas que vimos en el bootcamp y hacer una presentación en video sobre este mismo tema,
+que no exceda los 30 minutos.
+
+El ensayo podría tomar alguna de las siguientes formas:
+
+. Un análisis más profundo de un tema, por ejemplo la dualidad hardware/software
+. Un análisis comparativo entre dos tecnologías, por ejemplo, bases de datos relacionales y no relacionales
+. Las últimas investigaciones sobre un tema, por ejemplo, el avance con algoritmos metaherísticos para resolver problemas NP
+. El estudio de un proyecto de código abierto que aplique ideas de las ciencias computacionales, ej. la base de K9 de Arthur Whitney
+
+Esto te ayudará a profundizar en la aplicación de las ciencias computacionales.
+
+== Opción 2: Presenta un proyecto de software
+
+La segunda opción es presentar un proyecto de software que hayas desarrollado
+aplicando las ideas que vimos en el bootcamp. En este proyecto se espera que en su documentación
+se mencione las partes en las que se aplicó alguna idea del proyecto, por ejemplo, si el proyecto
+incluye un DSL, se pude mencionar en la documentación.
+
+Formato de entrega: Repositorio de código y video de presentación de no más de 15 minutos.

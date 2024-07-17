@@ -14,9 +14,10 @@ El ensayo podría tomar alguna de las siguientes formas:
 . Un análisis más profundo de un tema, por ejemplo la dualidad hardware/software
 . Un análisis comparativo entre dos tecnologías, por ejemplo, bases de datos relacionales y no relacionales
 . Las últimas investigaciones sobre un tema, por ejemplo, el avance con algoritmos metaherísticos para resolver problemas NP
-. El estudio de un proyecto de código abierto que aplique ideas de las ciencias computacionales, ej. la base de K9 de Arthur Whitney
+. El estudio de un proyecto de código abierto que aplique ideas de las ciencias computacionales, ej. la base de datos K9 de Arthur Whitney
 
 Esto te ayudará a profundizar en la aplicación de las ciencias computacionales.
+Formato de entrega: Ensayo y video de presentación de no más de 30 minutos.
 
 == Opción 2: Presenta un proyecto de software
 
@@ -26,3 +27,12 @@ se mencione las partes en las que se aplicó alguna idea del proyecto, por ejemp
 incluye un DSL, se pude mencionar en la documentación.
 
 Formato de entrega: Repositorio de código y video de presentación de no más de 15 minutos.
+
+== Opción 3: Participar en el hackathon para crear tu propio intérprete
+
+Si participaste en el Hackathon para crear tu propio intérprete, completar exitosamente el proyecto
+cuenta también para recibir tu certificado.
+
+== Fechas de entrega
+
+26 de Agosto de 2024 es la fecha límite para entregar tu proyecto si elegiste las opciones 1 o 2.

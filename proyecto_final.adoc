@@ -1,7 +1,11 @@
 = Proyecto Final - Bootcamp de Ciencias Computacionales
 ---
+
+
+
 En este documento presentamos los detalles del proyecto final, con las
-opciones que tienes para recibir tu certificado.
+opciones que tienes para recibir tu certificado. *Cualquier opción se puede presentar
+en equipos de hasta 3 personas*.
 
 == Opción 1: Presentación sobre un tema de tu elección
 
@@ -18,6 +22,7 @@ El ensayo podría tomar alguna de las siguientes formas:
 
 Esto te ayudará a profundizar en la aplicación de las ciencias computacionales.
 Formato de entrega: Ensayo y video de presentación de no más de 30 minutos.
+
 
 == Opción 2: Presenta un proyecto de software
 
